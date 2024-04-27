@@ -1,0 +1,20 @@
+{
+  "name": "container_test",
+  "type": "containerized",
+  "blockId": "tl4b1sfdx_MzT3fZH-yqI",
+  "source": {
+    "ssh": "git@github.com:grgshiji/ccc.git",
+    "https": "https://github.com/grgshiji/ccc.git",
+    "branch": "block_container_test"
+  },
+  "parentBlockIDs": [],
+  "isPublic": false,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono",
+  "language": "ruby",
+  "dependencies": {},
+  "version": "0.0.2",
+  "variantOf": "UVsmiRmDw47vyRAhymktu"
+}
